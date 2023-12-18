@@ -503,6 +503,10 @@ This allows us to understand algorithms that are not obvious to the end users
 
 <center><https://sherry-cmstats2023.netlify.app/></center>
 
+- All materials reproducible at 
+
+<center><https://github.com/huizezhang-sherry/cmstats2023/></center>
+
 <br>
 
 -  two packages on CRAN:  **tourr** and **ferrn** 
